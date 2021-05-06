@@ -37,7 +37,7 @@ ete3==3.1.1
 fake-useragent==0.1.11
 flaky==3.6.1
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 ftfy==5.6
 gast==0.2.2
 gensim==3.8.3
